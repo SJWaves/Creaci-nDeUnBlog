@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>Entrega 1 Sara Martinez</title>
+  </head>
+        
+  <body>
+    <header>
+      <h1>Trabajo HTML Desarrollo de aplicaciones de Red</h1>
+    </header>
+
+    <p>Buen día profe, el tema de mi blog es sobre unos temas importantes a la hora de aprender algunos idiomas en este ejemlo Chino Mandarin,Ingles y Tailandes.</p>
+
+      <h2> Chino mandarín</h2>
+      <br>
+      <b>Tema 1: Saludos Básicos</b>
+      <br>
+      <p>El mandarín utiliza expresiones sencillas pero muy útiles para el día a día.
+        <br>
+        Por ejemplo, “你好” (nǐ hǎo) significa “hola” y se pronuncia con tono 3 + tono 3.
+        <br>
+        Para despedirse, se dice “再见” (zài jiàn), que lleva tono 4 + tono 4. 
+        <br>
+        Aprender estos dos 
+        saludos te permitirá iniciar y terminar conversaciones de forma cortés en cualquier situación..</p>
+      <img src="https://duckduckgo.com/i/377b6ad2014a2b3f.png" alt=" Bandera China ">
+
+      <br>
+      <br>
+      <b>Tema 2: Los Cuatro Tonos</b>
+      <p>El chino mandarín distingue cuatro tonos fundamentales más un tono neutro.
+        <br>
+        Tono 1 (alto y sostenido): mā (妈, “mamá”)
+        <br>
+        Tono 2 (ascendente): má (麻, “cáñamo”)
+        <br>
+        Tono 3 (descendente-ascendente): mǎ (马, “caballo”)
+        <br>
+        Tono 4 (descendente): mà (骂, “regañar”)
+        Dominar la entonación es clave, porque un mismo conjunto de sonidos cambia de significado según el tono.</p>
+        <br>
+      <h2>Ingles</h2>
+      <br>
+      <strong>Tema 1: Present Simple vs. Present Continuous</strong>
+      <p>En inglés es fundamental distinguir cuándo usar “I work” (trabajo habitualmente) frente a “I am working” (estoy trabajando ahora mismo).
+        <br> 
+        El Present Simple describe rutinas o verdades generales; el Present Continuous, acciones en curso.
+        <br>
+        Practica contrastar frases como:
+        <br>
+        I eat breakfast at 8 AM.
+        <br>
+        I am eating breakfast now.</p>
+        <br>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.PEu9HEP4_RHTSOOJLelLfwHaEA%26pid%3DApi&f=1&ipt=6a844adc159a208f559e5f15b141977df8bc07d0a1a11c26a077861883da56c1&ipo=images" alt=" Bandera De Inglaterra">
+        <br>
+        <strong>Tema 2: Phrasal Verbs Básicos</strong>
+        <p>Los phrasal verbs combinan un verbo + preposición o adverbio, cambiando a menudo el significado original. Tres muy útiles:
+
+            “to look up”: buscar información.
+            
+            “to get on”: subir o llevarse bien.
+            
+            “to turn off”: apagar.
+            Memoriza un puñado al principio y ve ampliando tu lista conforme avances.</p>
+
+
+      <h2>Tailandés </h2>
+      <strong><p>Tema 1: Saludos y Cortesías</p></strong>
+      <p>El saludo tailandés se llama “สวัสดี” (sà-wàt-dii) y se acompaña de un gesto con las manos (“wai”). 
+        <br>
+        Para “hola” o “adiós” usas la misma palabra. Añade “ครับ” (khrá) si eres hombre, o “ค่ะ” (khâ) si eres mujer, para sonar más respetuoso:
+        <br>
+        Hombre: “สวัสดีครับ” (sà-wàt-dii khráp)
+        <br>
+        Mujer: “สวัสดีค่ะ” (sà-wàt-dii khâ)</p>
+        <br>
+        <img src="https://duckduckgo.com/i/e4916245af62f47d.png" alt=" Bandera Tailandia ">
+        <br>
+        <strong><p>Tema 2: Tonos en Tailandés</p></strong>
+        <br>
+    <p>El tailandés tiene cinco tonos: bajo, medio, alto, descendente y ascendente. Por ejemplo, la sílaba “maa” puede significar:
+            <br>
+            หม่า (bajo) – “perro”
+            <br>
+            มา (medio) – “venir”
+            <br>
+            ม้า (alto) – “caballo”
+            <br>
+            หมาก (descendente) – “fruta”
+            <br>
+            หม่ำ (ascendente) – “comer”
+            Practicar con parejas mínimas es esencial para no confundir significados.</p>
+
+    <footer>
+      <p>&copy; Sara Julieth Martinez Arias</p>
+    </footer>
+  </body>
+</html>
